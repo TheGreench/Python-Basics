@@ -27,9 +27,7 @@ while pesoMax >= 0 and maxPersonas >= 0:
 
     if pesoMax <= 0:
         print('Se ha sobrepasado el peso maximo del ascensor!')
-        break
     elif maxPersonas <= 0:
         print('Se ha llegado al numero maximo de personas!')
-        break
     else:
         print('Sin sobrepasar maximos! Cantinuando')
