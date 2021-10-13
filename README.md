@@ -1,5 +1,2 @@
 # Python-Basics
-Basic Python programs that were asked by my college
-
-
-Spanish
+Ejrcicios basicos de py, algoritmos y programacion 1
